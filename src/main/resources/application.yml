@@ -1,0 +1,5 @@
+spring:
+  application:
+    title: discovery-server
+    version: 0.0.1-SNAPSHOT
+    autor: ELIAS ROY
